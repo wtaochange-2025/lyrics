@@ -30,3 +30,6 @@ Suno Prompt（空灵女声 · 高命中）：
 
 ethereal ambient pop ballad, dreamy and melancholic night atmosphere, slow tempo, soft piano and airy synth pads, minimal arrangement, spacious reverb and delay, intimate and fragile emotion, female vocal, whispery and breathy singing, gentle humming, restrained dynamics, Mandarin Chinese lyrics, cinematic and emotional mood, high-quality modern production
 
+
+***  人工智能互动的意义，让其高效理解人类需求，并发挥其主观能动性 ***
+***  为什么做，不是你该如何做 ***
