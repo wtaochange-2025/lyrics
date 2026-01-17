@@ -1,5 +1,6 @@
 
 我想用 suno ai 平台，生成一首中文节日歌曲，请生成创作指令和完整歌词
+other platform: Udio, Musicfy, and Riffusion
 
 # lyrics
 lyrics for my youtube songs
