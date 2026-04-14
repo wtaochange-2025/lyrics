@@ -1,5 +1,8 @@
 some song prompt
 
+菊花茶：
+Chinese traditional folk, Chinese wind style, ancient Chinese melody, pentatonic scale, emotional ballad, gentle and soothing, warm healing vibe, classical Chinese instruments: dizi (bamboo flute), erhu, guzheng, pipa, soft yangqin, light percussion, slow tempo around 65-75 BPM, delicate and elegant, relaxing tea-drinking atmosphere, warm nostalgic, calming and refreshing
+
 海风的味道：
 Japanese anime film style, gentle cinematic pop ballad, sea breeze atmosphere, soft piano and strings, female vocal youthful and clear, nostalgic, warm, slightly melancholic, sunset by the sea
 Female vocal, young, gentle, clear tone, natural emotion, no vibrato, like anime ending theme
