@@ -1,5 +1,8 @@
 some song prompt
 
+采莲曲：
+Ancient Chinese scholarly  atmosphere, Light ambient traditional Chinese music underneath the Occasional soft humming and loose vocal sounds, very slow and calm, Guzheng, xiao, soft strings, minimal percussion, floating, immortal realm mood
+
 菊花茶：
 Chinese traditional folk, Chinese wind style, ancient Chinese melody, pentatonic scale, emotional ballad, gentle and soothing, warm healing vibe, classical Chinese instruments: dizi (bamboo flute), erhu, guzheng, pipa, soft yangqin, light percussion, slow tempo around 65-75 BPM, delicate and elegant, relaxing tea-drinking atmosphere, warm nostalgic, calming and refreshing
 
