@@ -1,0 +1,86 @@
+Suno Style Prompt
+
+Genre: Mandopop, Chinese Pop Ballad, Emotional Piano Ballad, 90s Inspired, Female Vocal
+
+Mood: Heartbroken, Nostalgic, Gentle, Poetic, Bittersweet, Cinematic
+
+Instrumentation: Piano, Acoustic Guitar, Soft Strings, Cello, Ambient Pad, Light Drums, Emotional Crescendo
+
+Vocal: Female, delicate and expressive, emotional dynamics, breathy verses, soaring chorus
+
+
+[Intro]
+钢琴轻轻落下，海风与浪声交织。
+
+[Verse 1]
+窗边那盏微黄灯火
+还留着你的轮廓
+风吹乱写过的承诺
+却吹不散沉默
+
+时间慢慢褪去颜色
+回忆依然温热
+每一步走得很轻
+却走不出你经过
+
+[Pre-Chorus]
+如果眼泪能够倒流
+是不是还能牵住你的手
+如果思念没有尽头
+为何故事已经到了最后
+
+[Chorus]
+风停以后 海还会不会想我
+沙滩上的脚印 已被潮汐淹没
+我把所有不舍 藏进每次日落
+只剩晚霞 替我说
+
+风停以后 梦还能不能停泊
+月光照着孤单 漂向遥远角落
+你像一场季节 悄悄来过又错过
+留下我 与寂寞一起漂泊
+
+[Verse 2]
+街角熟悉的咖啡店
+换了陌生笑脸
+你的名字不敢再念
+却住进每一天
+
+原来告别没有声音
+最痛的是平静
+不是忘了去爱你
+只是学会了安静
+
+[Bridge]
+我曾以为时间会回答
+为什么缘分总有偏差
+直到海风吹散了晚霞
+才明白 有些人注定只是路过啊
+
+[Final Chorus]
+风停以后 海依旧轻轻唱着
+唱着曾经拥有 唱着后来错过
+我把最后温柔 留给漫长星河
+让它替我 陪着你漂流
+
+风停以后 我终于学会放手
+那些爱的理由 已不用再追究
+若有一天重逢 在另一个路口
+愿我们 都笑着点头
+
+
+
+====
+根据歌词，分别生成10 张 16:9 图片场景描述 例如： 窗边回忆 雨夜，女孩坐在窗边，暖黄色台灯，桌上咖啡，玻璃上雨滴，电影感，忧伤氛围
+
+<<
+1. 雨夜窗边
+
+Prompt：
+
+雨夜，年轻女孩独自坐在窗边，暖黄色台灯照亮桌上的日记本与一杯已经变凉的咖啡，窗玻璃布满雨滴，远处城市灯光朦胧，侧脸若有所思，电影感，柔焦光影，忧伤氛围，
+cinematic, realistic photography, shallow depth of field, 16:9
+<<
+
+
+第三个场景，生成照片
